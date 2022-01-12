@@ -136,7 +136,8 @@ hr{
         grid-template-columns: repeat(2,1fr);
 
     }
+    .blogs{
+        grid-template-columns: repeat(1,1fr);
+    }
 }
-.blogs{
-    grid-template-columns: repeat(1,1fr);
-}
+
